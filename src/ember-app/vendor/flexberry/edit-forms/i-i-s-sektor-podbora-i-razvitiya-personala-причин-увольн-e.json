@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Специалист",
+      "projection": "СпециалистL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Причин увольн",
+  "name": "IISSektor_podbora_i_razvitiya_personalaПричинУвольнE",
+  "className": "ПричинУвольнE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-причин-увольн",
+      "modelProjection": "ПричинУвольнE"
+    }
+  ]
+}
